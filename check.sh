@@ -7,3 +7,4 @@ curl https://reserve.cdn-apple.com/HK/en_HK/reserve/iPhone/availability.json | g
 done
 
 echo 'Available!!!!!'
+echo -e "\007"
